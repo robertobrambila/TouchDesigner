@@ -6,4 +6,4 @@ Please feel free to use, abuse and share these components/project files in any w
 
 
 ### glsl_transition
-(TD v099) Ported select transitions from GL-Transitions.com. Requires a TO and FROM TOP as inputs. PROGRESS value (0-1) is a float number for the transition progress value. TRANSITION drop down menu is used to select the GLSL transition type. For select transitions, further adjustable paremeters exist within the glsl_transitions base so make sure to dive within that OP if you want to make refinements.
+(TD v099) Ported select transitions from GL-Transitions.com. Requires a TO and FROM TOP as inputs. PROGRESS value (0-1) is a float number for the transition progress value. TRANSITION drop down menu is used to select the GLSL transition type. For select transitions, further adjustable parameters exist within the glsl_transitions base so make sure to dive within that OP if you want to make refinements.
